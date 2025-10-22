@@ -22,7 +22,7 @@ It extends the **Lewis Reconstruction Game** framework with three key mechanisms
 Together, these pressures foster **compositionality**, **efficiency**, and **expressivity** in emergent communication.
 
 <p align="center">
-  <img src="assets/celebi_architecture.png" width="600">
+  <img src="figs/emergent_communication_model.pdf" width="600">
 </p>
 
 ---
