@@ -41,7 +41,7 @@ Together, these pressures foster **compositionality**, **efficiency**, and **exp
 ## 📦 Installation
 Clone this repository and install dependencies:
 ```bash
-git clone https://github.com/raeleberg/celebi.git
+git clone https://github.com/SugarFreeManatee/CELEBI.git
 cd celebi
 conda create -n celebi python=3.10
 conda activate celebi
