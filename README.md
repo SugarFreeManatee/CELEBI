@@ -10,7 +10,7 @@ Rafael Elberg*, Felipe del Rio, Mircea Petrache, Denis Parra
 
 ## 🧠 Overview
 <p align="left">
-  <img src="figs/800px-0251Celebi" width="300">
+  <img src="figs/800px-0251Celebi.png" width="300">
 </p>
 CELEBI (**Compressive-Expressive Language Emergence through a discrete Bottleneck and Iterated learning**)  
 is a self-supervised framework for **inducing compositional representations** through a **communication game**
